@@ -1,8 +1,8 @@
-# Terminal Monitor
+# Kuku Monitor
 
-A sleek, terminal-aesthetic server monitoring dashboard built with Node.js and vanilla HTML/CSS/JS.
+A sleek, terminal-aesthetic system monitoring dashboard built with Node.js and vanilla HTML/CSS/JS.
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Terminal+Monitor+Preview)
+![Dashboard Preview](https://via.placeholder.com/800x400?text=Kuku+Monitor+Preview)
 
 ## Features
 

@@ -168,5 +168,5 @@ app.get('/api/metrics', async (req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`Server running at http://localhost:${PORT}`);
+    console.log(`Kuku Monitor running at http://localhost:${PORT}`);
 });

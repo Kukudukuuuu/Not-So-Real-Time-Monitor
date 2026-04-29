@@ -1,7 +1,7 @@
 {
-  "name": "terminal-monitor",
+  "name": "kuku-monitor",
   "version": "1.0.0",
-  "description": "A terminal-style server monitoring dashboard with real-time system metrics",
+  "description": "A terminal-style system monitoring dashboard with real-time metrics",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
