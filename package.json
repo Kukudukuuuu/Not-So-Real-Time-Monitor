@@ -1,0 +1,16 @@
+{
+  "name": "terminal-monitor",
+  "version": "1.0.0",
+  "description": "A terminal-style server monitoring dashboard with real-time system metrics",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["monitoring", "dashboard", "terminal", "sysinfo", "nodejs"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
